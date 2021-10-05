@@ -1,0 +1,4 @@
+.DS_STORE
+.eslintcache
+node_modules/
+.vscode/
